@@ -88,8 +88,7 @@
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="/helloworld/tasks/create">Task</a>
-<!-- https://appdividend.com/2018/02/23/laravel-5-6-crud-tutorial/
--->
+
                 </div>
             </div>
         </div>
